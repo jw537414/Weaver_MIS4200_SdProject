@@ -1,11 +1,11 @@
 ﻿@Code
-    ViewData("Title") = "Home Page"
+    ViewData("Title") = "Home"
 End Code
 
 <div class="jumbotron">
-    <h1>ASP.NET</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+    <h1>Jenna Weaver</h1>
+    <p class="lead">| Ohio University | Management Information System | Business Analytics |</p>
+   
 </div>
 
 <div class="row">
@@ -19,13 +19,14 @@ End Code
         <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
+        <h2>Study Abroad</h2>
+        <p>I studied aroad spring semester of my sophmore year. While abroad I studied at Mahidol International College in Bangkok, Thialand. 
+        Check out their link to view more about the university I studied at!</p>
+        <p><a class="btn btn-default" href="https://mahidol.ac.th/">Learn more &raquo;</a></p>
     </div>
     <div class="col-md-4">
-        <h2>Web Hosting</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+        <h2>Linkedin</h2>
+        <p>Check out the link to my Linkedin to view more about my achedemics and internships I completed during my time as a student.</p>
+        <p><a class="btn btn-default" href="https://www.linkedin.com/in/jennaweaver10/">Learn more &raquo;</a></p>
     </div>
 </div>
